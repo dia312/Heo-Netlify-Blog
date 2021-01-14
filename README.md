@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
   <img src="./assets/gatsby-starter-bee.png" width="360px" />
@@ -250,3 +251,6 @@ Support this project with your organization. Your logo will show up here with a 
 <sub><sup>Project by <a href="https://github.com/JaeYeopHan">@Jbee</a></sup></sub><small>✌</small>
 
 </div>
+=======
+# Heo-Netlify-Blog-App
+>>>>>>> b7966a78115f0e98eb2a739a5d574ae9fcc32591
