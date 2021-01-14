@@ -2,11 +2,11 @@ module.exports = {
   title: `HeoSeungYeon Blog`,
   description: `Blog posted about Coding Study`,
   author: `HeoSeungYeon`,
-  introduction: `To develop myself, To develop anything`,
+  introduction: `To develop myself, develop anything`,
   siteUrl: `https://heoseungyeon.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/heoseungyeon`, // Your GitHub account
+    github: `heoseungyeon`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -15,13 +15,13 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'heoseungyeon/Heo-Netlify-Blog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'HeoSeungYeon',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
